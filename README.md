@@ -2,6 +2,10 @@
 
 Welcome to my GitHub repository! This is the home of my personal portfolio, showcasing my skills, projects, and professional experience.
 
+### Live Demo
+
+Check out the live demo of my portfolio [here](https://venkat-dhulipalla.github.io/MyPortfolio/).
+
 ## About Me
 
 I am Venkat Dhulipalla, a full-stack software developer currently pursuing an M.S. in Computer Science at the University of North Texas. I am proficient in Python, Java, and SQL, with a strong foundation in data structures, algorithms, and a commitment to delivering high-quality software.
